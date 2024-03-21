@@ -1,0 +1,79 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)",
+      "price": "₹1,499",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l0sgyvk0/headphone/e/w/c/buds-z2-oneplus-original-imagcg5gfpcg5ndv.jpeg?q=70&crop=false",
+      "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+    },
+    {
+      "id": "2",
+      "name": "Lenovo IdeaPad 1 AMD Athlon Dual Core 7120U - (8 GB/512 GB SSD/Windows 11 Home) 15AMN7 Thin and Light Laptop  (15.6 inch, Cloud Grey, 1.58 Kg, With MS Office)",
+      "price": "₹26,990",
+      "image": "https://rukminim2.flixcart.com/image/312/312/xif0q/computer/n/i/e/15amn7-thin-and-light-laptop-lenovo-original-imagsvykgkecffgr.jpeg?q=70",
+      "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+    },
+    {
+      "id": "3",
+      "name": "HP 255G9 AMD Ryzen 3 Dual Core AMD Ryzen3 3250 - (8 GB/512 GB SSD/Windows 11 Home) 255 G8 Notebook Notebook  (15.6 inch, Dark Ash, 1.78 kg)",
+      "price": "₹24,890",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l48s9zk0/computer/6/z/k/hp-laptop-255-g8-notebook-notebook-hp-original-imagf6hthg9zbxug.jpeg?q=70&crop=false",
+      "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+    },
+    {
+      "id": "4",
+      "name": "POCO C55 (Cool Blue, 128 GB)  (6 GB RAM)",
+      "price": "₹6,499",
+      "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70&crop=false",
+      "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+    },
+    {
+      "id": "5",
+      "name": "HP 255G9 AMD Ryzen 3 Dual Core AMD Ryzen3 3250 - (8 GB/512 GB SSD/Windows 11 Home) 255 G8 Notebook Notebook  (15.6 inch, Dark Ash, 1.78 kg)",
+      "price": "₹24,890",
+      "image": "https://rukminim2.flixcart.com/image/416/416/l48s9zk0/computer/6/z/k/hp-laptop-255-g8-notebook-notebook-hp-original-imagf6hthg9zbxug.jpeg?q=70&crop=false",
+      "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Raja",
+      "email": "raja@mail.com",
+      "password": "Raja@1234",
+      "cart": [
+        {
+          "id": "4",
+          "name": "POCO C55 (Cool Blue, 128 GB)  (6 GB RAM)",
+          "price": "₹6,499",
+          "image": "https://rukminim2.flixcart.com/image/416/416/xif0q/mobile/y/9/g/-original-imagnfzyhh8gz8sd.jpeg?q=70&crop=false",
+          "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+        },
+        {
+          "id": "1",
+          "name": "OnePlus Bullets Wireless Z2 with Fast Charge, 30 Hrs Battery Life, Earphones with mic Bluetooth Headset  (Magico Black, In the Ear)",
+          "price": "₹1,499",
+          "image": "https://rukminim2.flixcart.com/image/416/416/l0sgyvk0/headphone/e/w/c/buds-z2-oneplus-original-imagcg5gfpcg5ndv.jpeg?q=70&crop=false",
+          "description": "The IdeaPad Slim 1 was designed to be used on the go for those who like learning all the time and hence it is only 19.9 mm thin and weighs only 1.65 kg, now you can learn wherever you want and whenever you want With the 720p HD camera now rest assured that everyone sees you in crystal clear quality. From presentations to vivas now make everything shine out. Not just that the Dolby audio will make sure you never miss a word."
+        }
+      ]
+    },
+    {
+      "id": "62e8",
+      "name": "Srinithish B",
+      "email": "bsrinithish@gmail.com",
+      "password": "1234",
+      "agree": true,
+      "cart": []
+    },
+    {
+      "id": "bfa6",
+      "name": "Nithish",
+      "email": "nithish@mail.com",
+      "password": "1234",
+      "agree": true,
+      "cart": []
+    }
+  ]
+}
